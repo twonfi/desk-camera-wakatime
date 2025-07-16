@@ -14,3 +14,6 @@ I will be working on it randomly during my free time (almost non-existent for me
 
 ## Will this be submitted to a YSWS?
 No, because of fraud implications.
+
+## Will this work with Hackatime?
+No—only wakatime.com. I don't want to be banning people from Hack Club just because they're curious about a WakaTime extension for paper.
